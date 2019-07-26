@@ -6,7 +6,7 @@
     * [next.js - 边学边写](react/nextJs.md)
 * CSS
     * [text-transform](css/text-transform.md)
-    * [疯狂的CSS](css/crazy-css.md)
+    * [pointer-events](css/pointer-events.md)
 * 同步文档
     * [你不知道的JavaScript(上) - 阅读笔记](sync-docs/javascript/你不知道的JavaScript_上.md)
     * [你不知道的JavaScript(中) - 阅读笔记](sync-docs/javascript/你不知道的JavaScript_中.md)
