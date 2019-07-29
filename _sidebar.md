@@ -1,6 +1,6 @@
 * [首页](README.md)
 * JAVASCRIPT
-
+    * [this指向解析](java-script/this.md)
 * REACTJS
     * [react-hook](react/React-hook.md)
     * [redux-actions](react/redux-actions.md)
