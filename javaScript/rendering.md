@@ -22,8 +22,7 @@ SPA首次加载的HTML文档没有内容，而目前大多数搜索引擎主要�
 
 不过对于使用SSR方式渲染出的HTML页面来说，用户是可以在这些操作（指的是下载React、构建虚拟DOM、绑定事件）完成之前就能看到页面。
 再反观使用CSR方式渲染出的HTML页面，你必须等到上面的这些操作（指的是下载React、构建虚拟DOM、绑定事件）都完成，virtual-dom转换成（浏览器）页面上的真实dom之后，用户才能看到页面。
-
-![5626694f-2558-4716-9623-3ee0f3bb6ce1](https://user-images.githubusercontent.com/25027560/50375343-b79c8680-0636-11e9-9e01-6c1749e2d241.png)
+![image.png](https://upload-images.jianshu.io/upload_images/6541235-123262f9912c0c95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## SSR的缺点？
 
@@ -43,8 +42,7 @@ React和Vue等MVVM框架中都引入了虚拟DOM（Virtual DOM）的概念，本
 - Node服务器环境：Virtual DOM -> 字符串
 - 浏览器环境：Virtual DOM -> 直接操作真实DOM
 
-![d4d49485-e3d8-4a79-8f81-ef71e51e231d](https://user-images.githubusercontent.com/25027560/50375345-c08d5800-0636-11e9-8d04-23e7225edb36.png)
-
+![image.png](https://upload-images.jianshu.io/upload_images/6541235-85ec9463d56ef276.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## SSR的难点
 
 #### 1、路由代码的差异
