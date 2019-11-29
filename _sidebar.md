@@ -1,7 +1,7 @@
 * [首页](README.md)
 * JAVASCRIPT
     * [this指向解析](javaScript/this.md)
-    * [后端渲染、客户端渲染(CSR)、同构应用(SSR) ](javaScript/rendering.md)
+    * [服务端渲染VS客户端渲染VS同构应用](javaScript/rendering.md)
 * REACTJS
     * [react-hook](react/React-hook.md)
     * [redux-actions](react/redux-actions.md)
@@ -13,7 +13,7 @@
     * [text-transform](css/text-transform.md)
     * [pointer-events](css/pointer-events.md)
     * [calc() 函数](css/calc().md)
-* 同步文档
+* 同步博客
     * [你不知道的JavaScript(上) - 阅读笔记](syncDocs/javascript/你不知道的JavaScript_上.md)
     * [你不知道的JavaScript(中) - 阅读笔记](syncDocs/javascript/你不知道的JavaScript_中.md)
     * [Array的高阶函数](syncDocs/javascript/数组的reduce_filter.md)

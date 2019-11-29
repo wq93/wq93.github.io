@@ -1,8 +1,5 @@
-![logo](_media/icon.svg)
+![logo](_media/logo.png)
 
 # 琪巴巴
-### 前端工程师
-- :hammer: **Beijing**
-
-<!-- 背景图片 -->
-![](_media/bg.jpg)
+### 前端攻城狮
+- :hammer: **BeiJing**
