@@ -15,6 +15,7 @@
     * [calc() 函数](css/calc().md)
     * [伪元素empty](css/伪元素empty.md)
     * [破碎图片Tip](css/破碎图片Tip.md)
+    * [用css实现骨架屏效果](css/用css实现骨架屏效果.md)
 * 同步博客
     * [你不知道的JavaScript(上) - 阅读笔记](syncDocs/javascript/你不知道的JavaScript_上.md)
     * [你不知道的JavaScript(中) - 阅读笔记](syncDocs/javascript/你不知道的JavaScript_中.md)
